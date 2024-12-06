@@ -78,5 +78,5 @@ Themes are stored in `/var/jb/Library/ReplyActions/Themes/`as JSON file with its
 ### Warning
 - All properties are needed. You can't leave out any property, or tweak won't work.
 - I would suggest creating a new theme instead of overwriting an existing theme so it's cleaner.
-- **DON'T DELETE THE DEFAULT THEME (CLASSIC BLACK) OR THE TWEAK WON'T WORK.** Classic black is the default fallback theme **_in case_** tweak preferences resets/if you lose tweak preferences for some reason. I didn't hardcode any themes since I want everyone to have full flexibility on customization. Just don't silly things, you'll be fine, mmkay?
+- **DON'T DELETE THE DEFAULT THEME (CLASSIC BLACK) OR THE TWEAK WON'T WORK.** Classic black is the default fallback theme **_in case_** tweak preferences resets/if you lose tweak preferences for some reason. I didn't hardcode any themes since I want everyone to have full flexibility on customization. Just don't do silly things, you'll be fine, mmkay?
 
