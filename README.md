@@ -1,4 +1,5 @@
 # ReplyAction Themes
+# THIS IS NOW DEPRECATED WITH V3. YOU CAN NOW DIRECTLY CUSTOMIZE THE TWEAK FROM PREFS
 
 If you have no idea what this tweak does, oh man you're missing out. Check it out on Havoc!
 
